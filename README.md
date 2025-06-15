@@ -16,3 +16,7 @@ Bu proje, ASP.NET Core MVC kullanılarak geliştirilmiş bir **Kurs Listeleme ve
 - C#
 - Bootstrap
 - Layout, Partial Views, Route Links
+
+## 🛠️ Uygulama ici Resim
+![image](https://github.com/user-attachments/assets/b5ad6961-f6ed-4741-916a-ac00e4278899)
+
