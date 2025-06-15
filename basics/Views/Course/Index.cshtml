@@ -1,0 +1,10 @@
+@model basics.Models.Course
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Kurslar";
+}
+
+<h1>@Model.Title</h1>
+
+   @await Html.PartialAsync("_Course",@Model)
